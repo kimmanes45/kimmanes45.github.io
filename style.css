@@ -11,12 +11,6 @@ body {
   color: #222;
 }
 
-#home {
-  background: linear-gradient(to bottom, #f3e8ff, #ffffff);
-  padding: 80px 20px;
-  border-radius: 12px;
-}
-
 nav {
   background: #ffffff;
   padding: 15px 30px;
